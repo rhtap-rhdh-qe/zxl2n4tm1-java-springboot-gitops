@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zxl2n4tm1-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zxl2n4tm1-java-springboot
